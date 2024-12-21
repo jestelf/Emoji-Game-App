@@ -27,8 +27,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL вашего репозитория>
-   cd <название папки>
+   git clone https://github.com/jestelf/Emoji-Game-App.git
+   cd Emoji-Game-App
    ```
 
 2. Установите зависимости:

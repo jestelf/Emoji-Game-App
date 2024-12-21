@@ -1,0 +1,5 @@
+PyQt5==5.15.7
+opencv-python==4.8.0.74
+mediapipe==0.10.0
+numpy==1.23.5
+deepface==0.0.78
